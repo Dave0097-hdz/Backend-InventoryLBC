@@ -14,3 +14,6 @@ Este backend proporciona una API REST para la aplicación móvil ParkCloud. Est�
 2. Configura tu base de datos en `api/db.php`
 3. Accede a los endpoints desde Postman o desde la app Flutter
 4. Crea una restauracion de la base de datos de `bd/inventorylbc.sql`
+
+## Frontend [Flutter]
+- [Backend - PHP](https://github.com/Dave0097-hdz/InventoryLBC)
